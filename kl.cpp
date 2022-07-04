@@ -8,7 +8,7 @@
 
 using namespace std;
 
-PCSTR IP = "51.83.128.163";
+PCSTR IP = "<PASTE YOUR IP>";
 int PORT = 1337;
 
 int main(int argc,char *argv[])
